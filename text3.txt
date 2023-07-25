@@ -1,0 +1,1 @@
+git pull used to pull the latest changes or commits made to a file to our local directory.
